@@ -1,0 +1,47 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height:100vh;
+  row-gap: 3rem;
+  padding: 2rem;
+  border: 2px solid black;
+}
+
+h1 {
+  color: rgb(7, 58, 7);
+}
+
+#loadingSpinner {
+  display: none;
+}
+
+#button:active{
+  transform: scale(1.2);
+}
+
+.cont {
+  display: flex;
+}
+
+#info {
+  align-self: center;
+  border: 2px solid grey;
+  align-items: center;
+  box-shadow:
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+#button {
+  background-color: rgb(15, 54, 15);
+  color: white;
+  padding: 5px 20px;
+}
+#btn_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
