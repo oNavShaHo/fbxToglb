@@ -45,7 +45,7 @@ This project is a web application for loading and visualizing 3D models using Th
 1. Choose an FBX file by clicking on the "Choose File" button.
 2. Once the file is selected, the 3D model will be displayed in the scene.
 3. Use the mouse to rotate and zoom in/out of the model.
-4. Click the "Export GLTF" button to export the loaded model in GLTF format.
+4. Click the "Download" button to export the loaded model in GLB format.
 
 ## Configuration
 
@@ -61,6 +61,12 @@ This project is a web application for loading and visualizing 3D models using Th
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## Challenge Faced
+- I was unable to any documentation on FBXLoader ,although one youtober luciky gave me hint to 
+  check code snippits from example in three.js and after that is was easy.
+- Took me 4 hours to decide what will be the correct way of conversion ,how i dealt -tried 
+  every possible way using demo projects ,and it finally worked.
 
 ## License
 
