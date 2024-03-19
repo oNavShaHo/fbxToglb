@@ -1,7 +1,7 @@
 
 
 ---
-live at - https://fbxtoglbconverter.netlify.app/
+
 
 # Project Name
 FBX TO GLB Converter
@@ -76,6 +76,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Credits
 
 - Developed by Navdeep Shah
+
+## dont use live site for evaluation purpose ,error handling is done using alert messages .
+- live at - https://fbxtoglbconverter.netlify.app/
 
 ---
 
