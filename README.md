@@ -1,4 +1,4 @@
-Below is a template for a README file that explains the project and its setup:
+
 
 ---
 
@@ -22,7 +22,7 @@ This project is a web application for loading and visualizing 3D models using Th
 
 1. Clone the repository:
    ```
-   git clone https://github.com/oNavShaHo/fbxToglb
+   git clone [https://github.com/oNavShaHo/fbxToglb](https://github.com/oNavShaHo/helloar)
    ```
 
 2. Install dependencies:
