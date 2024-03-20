@@ -60,6 +60,7 @@ function handleFileSelect(event) {
     reader.readAsDataURL(file);
   } catch (error) {
     console.log(error);
+    alert('not able to read it ,try again');
   }
 }
 
@@ -189,6 +190,7 @@ function exportGLTF(input) {
     },
     function (error) {
       console.log('An error happened during parsing', error);
+      alert('not able to parse try again');
     },
     options
   );
