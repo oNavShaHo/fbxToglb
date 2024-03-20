@@ -1,12 +1,16 @@
-Below is a template for a README file that explains the project and its setup:
+
 
 ---
+
 
 # Project Name
 FBX TO GLB Converter
 
 ## HIGH LEVEL FLOWCHART 
+![threejs](https://github.com/oNavShaHo/helloar/assets/106837111/576799a7-22bf-4ac8-91a4-b717a331fb79)
 
+## HOME 
+![fbxtoglbhome](https://github.com/oNavShaHo/helloar/assets/106837111/21799218-7327-459e-b41f-6bb021852aea)
 
 ## Description
 
@@ -22,7 +26,7 @@ This project is a web application for loading and visualizing 3D models using Th
 
 1. Clone the repository:
    ```
-   git clone https://github.com/oNavShaHo/fbxToglb
+   git clone https://github.com/oNavShaHo/helloar
    ```
 
 2. Install dependencies:
@@ -45,7 +49,7 @@ This project is a web application for loading and visualizing 3D models using Th
 1. Choose an FBX file by clicking on the "Choose File" button.
 2. Once the file is selected, the 3D model will be displayed in the scene.
 3. Use the mouse to rotate and zoom in/out of the model.
-4. Click the "Export GLTF" button to export the loaded model in GLTF format.
+4. Click the "Download" button to export the loaded model in GLB format.
 
 ## Configuration
 
@@ -62,6 +66,12 @@ This project is a web application for loading and visualizing 3D models using Th
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
+## Challenge Faced
+- I was unable to any documentation on FBXLoader ,although one youtober luciky gave me hint to 
+  check code snippits from example in three.js and after that is was easy.
+- Took me 4 hours to decide what will be the correct way of conversion ,how i dealt -tried 
+  every possible way using demo projects ,and it finally worked.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -69,6 +79,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Credits
 
 - Developed by Navdeep Shah
+
+## dont use live site for evaluation purpose ,error handling is done using alert messages .
+- live at - https://fbxtoglbconverter.netlify.app/
 
 ---
 
