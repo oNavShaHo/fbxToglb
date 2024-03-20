@@ -7,7 +7,10 @@
 FBX TO GLB Converter
 
 ## HIGH LEVEL FLOWCHART 
+![threejs](https://github.com/oNavShaHo/helloar/assets/106837111/576799a7-22bf-4ac8-91a4-b717a331fb79)
 
+## HOME 
+![fbxtoglbhome](https://github.com/oNavShaHo/helloar/assets/106837111/21799218-7327-459e-b41f-6bb021852aea)
 
 ## Description
 
